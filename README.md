@@ -3,12 +3,12 @@
 <img src="assets/banner.svg" alt="MD Tamzid Hossen Omi - IoT, Embedded Systems, Robotics and AI Engineering" width="100%" />
 
 <a href="https://github.com/tamzid16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&height=42&lines=Building+local-first+RAG+and+agent+platforms;Bridging+IoT%2C+embedded+systems+and+AI;From+ESP32+sensors+to+LLM+pipelines;Graduate+engineer+based+in+Dhaka%2C+Bangladesh" alt="Typing animation of focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&height=42&lines=Building+projects+that+combines+embedded+intelligence;Bridging+IoT%2C+embedded+systems+and+AI;From+ESP32+sensors+to+LLM+pipelines;Opne+to+any+opportunities+in+Robotics+and+AI+engineering+" alt="Typing animation of focus areas" />
 </a>
 
 <br />
 
-<a href="https://www.linkedin.com/in/tamzid-hossen-omi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/md-tamzid-hossen-omi-93000a2b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tamzid.omi@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/tamzid16?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=tamzid16&label=Profile+views&color=00D4FF&style=for-the-badge" alt="Profile views" />
@@ -27,18 +27,13 @@
 <tr>
 <td width="62%" valign="top">
 
-I am an engineer who works across **hardware and software**. My degree is a B.Sc. in Internet of Things and Robotics Engineering from the University of Frontier Technology, Bangladesh (2022 to 2026) and my focus spans IoT, embedded systems, robotics, machine learning and AI engineering.
+I am an engineer working at the intersection of **hardware and software**, with a B.Sc. in **Internet of Things and Robotics Engineering** from the University of Frontier Technology, Bangladesh.
 
-Most of my recent repositories are **local-first AI systems**: RAG pipelines, evaluation tooling and agent runtimes built with Next.js, FastAPI and PostgreSQL with pgvector. They run on local models through Ollama by default, so the core of each project works without a paid model API.
+My technical interests span **IoT, embedded systems, robotics, machine learning and AI engineering**, with a focus on developing intelligent, connected and practical engineering solutions. I enjoy bridging the gap between physical systems and software through system integration, automation and intelligent computing.
 
-**Research**
-- **Agri-RAG:** my undergraduate thesis on multimodal AI for agriculture
-- **JuteRAG:** a vision-RAG pipeline for diagnosing jute diseases in Bangla
-- **WatchRover:** IoT-enabled autonomous bot for disaster response, co-authored and presented at IEEE QPAIN 2026
+I am particularly interested in building projects that **combine embedded intelligence, real-world sensing, robotics and AI-driven applications** to solve meaningful technical challenges.
 
-**Leadership:** Joint Secretary of the UFTB Robotics Club and Executive Member of Robofusion IRE 1.0
-
-**Beyond code:** graphics design, digital marketing and video editing
+I am open to opportunities in **IoT, robotics, and software engineering, as well as research collaborations** in applied AI.
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -251,8 +246,6 @@ Most of my recent repositories are **local-first AI systems**: RAG pipelines, ev
 <img src="https://github-readme-stats.vercel.app/api?username=tamzid16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF4D6D&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="GitHub stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzid16&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" alt="Top languages" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=tamzid16&hide_border=true&background=0D1117&ring=00D4FF&fire=FF4D6D&currStreakNum=FFB800&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=8B5CF6&dates=8B98B8" alt="GitHub streak" width="70%" />
-
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -261,7 +254,7 @@ Most of my recent repositories are **local-first AI systems**: RAG pipelines, ev
 
 <div align="center">
 
-I am open to graduate-level roles in IoT, robotics and software engineering, and to research collaboration in applied AI.
+Eager to contribute to IoT, robotics and software engineering projects while pursuing collaborative applied AI research
 
 <br />
 
