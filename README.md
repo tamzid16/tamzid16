@@ -8,10 +8,13 @@
 
 <br />
 
+
 <a href="https://www.linkedin.com/in/md-tamzid-hossen-omi-93000a2b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://tamzid16.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:tamzid.omi@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/tamzid16?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=tamzid16&label=Profile+views&color=00D4FF&style=for-the-badge" alt="Profile views" />
+
 
 <br /><br />
 
